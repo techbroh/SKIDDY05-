@@ -7,7 +7,7 @@
   
 <p align="center">
 
-[![it tech bro](https://github.com/techbroh/SKIDDY05-.png?lenght=50width=50)](https://github.com/techbroh/SKIDDY05-)
+[![https://files.catbox.moe/1dpqqm.jpg](https://github.com/techbroh/SKIDDY05-.png?lenght=50width=50)](https://github.com/techbroh/SKIDDY05-)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TECH+WHATSAPP+BOT" alt="">
@@ -53,7 +53,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
   
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://pairing-tech.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-gold?style=for-the-badge&logo=render"></a>
 <p/>
             
 
