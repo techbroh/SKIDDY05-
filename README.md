@@ -7,7 +7,7 @@
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/techbroh/SKIDDY05-.png?lenght=50width=50)](https://github.com/techbroh/SKIDDY05-)
+[![techbroh](https://github.com/techbroh/SKIDDY05-.png?lenght=50width=50)](https://github.com/techbroh/SKIDDY05-)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TECH+WHATSAPP+BOT" alt="">
